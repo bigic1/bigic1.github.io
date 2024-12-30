@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder><name>Coverage of Blace</name>
+<GroundOverlay><name>Coverage</name>
+<description>103.000 MHz | 
+164.06 W ERPI | 
+115.65 dB System Gain</description>
+<color>88ffffff</color><Icon><href>NAUTELB12022FB005C_1.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 44.66048</north>
+<south> 41.96251</south>
+<east> 23.02617</east>
+<west> 19.31831</west>
+</LatLonBox></GroundOverlay>
+<Placemark><name>Blace</name>
+<Point><coordinates> 21.17224216, 43.3114972,0
+</coordinates></Point></Placemark></Folder></kml>

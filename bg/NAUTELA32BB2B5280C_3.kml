@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder><name>Coverage of genex</name>
+<GroundOverlay><name>Coverage</name>
+<description>103.000 MHz | 
+492.18 W ERPI | 
+120.42 dB System Gain</description>
+<color>88ffffff</color><Icon><href>NAUTELA32BB2B5280C_3.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 46.16913</north>
+<south> 43.47116</south>
+<east> 22.30667</east>
+<west> 18.50309</west>
+</LatLonBox></GroundOverlay>
+<Placemark><name>genex</name>
+<Point><coordinates> 20.40487826, 44.82014534,0
+</coordinates></Point></Placemark></Folder></kml>

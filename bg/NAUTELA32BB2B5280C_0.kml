@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder><name>Coverage of usce 150w</name>
+<GroundOverlay><name>Coverage</name>
+<description>103.000 MHz | 
+246.09 W ERPI | 
+117.41 dB System Gain</description>
+<color>88ffffff</color><Icon><href>NAUTELA32BB2B5280C_0.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 46.16471</north>
+<south> 43.46674</south>
+<east> 22.3387</east>
+<west> 18.53542</west>
+</LatLonBox></GroundOverlay>
+<Placemark><name>Usce</name>
+<Point><coordinates> 20.4370594, 44.81572364,0
+</coordinates></Point></Placemark></Folder></kml>

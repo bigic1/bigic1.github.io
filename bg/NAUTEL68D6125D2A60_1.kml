@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder><name>Coverage of beogradjanka 300w 109m</name>
+<GroundOverlay><name>Coverage</name>
+<description>103.000 MHz | 
+492.18 W ERPI | 
+120.42 dB System Gain</description>
+<color>88ffffff</color><Icon><href>NAUTEL68D6125D2A60_1.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 46.15583</north>
+<south> 43.45786</south>
+<east> 22.36538</east>
+<west> 18.56268</west>
+</LatLonBox></GroundOverlay>
+<Placemark><name>beogradjanka</name>
+<Point><coordinates> 20.46402633, 44.80684497,0
+</coordinates></Point></Placemark></Folder></kml>
